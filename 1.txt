@@ -1,2 +1,6 @@
-install sap 
+install sap
+ 
 install git
+
+install git
+install maven
